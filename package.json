@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.3.0",
+    "@tailwindcss/line-clamp": "^0.2.2",
+    "gh-pages": "^3.2.3",
+    "next": "latest",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-chrono": "^1.12.4",
+    "react-dom": "^17.0.2",
+    "react-tiny-collapse": "^1.1.0",
+    "swiper": "^7.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
